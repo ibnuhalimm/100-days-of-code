@@ -91,3 +91,17 @@
 - [My Homepage](https://ibnuis.dev)
 - [My Blog](https://blog.ibnuis.dev)
 - [Laravel Framework](https://laravel.com)
+
+
+### Day 8: Januari 31, 2021
+##### Providing Mikrotik Login Page and Fix Some Issues
+
+**Today's Progress:** Providing mikrotik login page and fix some issues
+
+**Thoughts:** Login page for my friend. Continue working on my website scripts and performing any unit tests.
+
+**Links:**
+- [Source of Login Page](https://github.com/ibnuhalimm/login-page-mikrotik)
+- [My Homepage](https://ibnuis.dev)
+- [My Blog](https://blog.ibnuis.dev)
+- [Laravel Framework](https://laravel.com)
