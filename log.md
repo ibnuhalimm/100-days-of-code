@@ -10,6 +10,7 @@
 **Links:**
 - [Preface](https://www.freecodecamp.org/news/the-crazy-history-of-the-100daysofcode-challenge-and-why-you-should-try-it-for-2018-6c89a76e298d/)
 
+---
 
 ### Day 1: Januari 22, 2021
 ##### Re-learn Basic Python and Installing Django Framework
@@ -22,6 +23,7 @@
 - [Tutorialspoint](https://tutorialspoint.com/python3/index.htm)
 - [Django Official Docs](https://docs.djangoproject.com/)
 
+---
 
 ### Day 2: Januari 23, 2021
 ##### Learning the basic of Django Framework
@@ -33,6 +35,7 @@
 **Links:**
 - [Django Official Docs](https://docs.djangoproject.com/)
 
+---
 
 ### Day 3: Januari 26, 2021
 ##### Creating simple polls voting app
@@ -44,6 +47,7 @@
 **Links:**
 - [Django Official Docs](https://docs.djangoproject.com/)
 
+---
 
 ### Day 4: Januari 27, 2021
 ##### Development setup (boilerplate) for django-framework
@@ -56,6 +60,7 @@
 - [Django Beginners](https://djangoforbeginners.com/)
 - [Django Official Docs Tutorial #06](https://docs.djangoproject.com/en/3.1/intro/tutorial06)
 
+---
 
 ### Day 5: Januari 28, 2021
 ##### Updating my django-boilerplate
@@ -68,6 +73,7 @@
 - [Django Boilerplate](https://github.com/ibnuhalimm/django-boilerplate)
 - [Tailwindcss](https://tailwindcss.com)
 
+---
 
 ### Day 6: Januari 29, 2021
 ##### Working on My Client App
@@ -79,6 +85,7 @@
 **Links:**
 - [Laravel Framework](https://laravel.com)
 
+---
 
 ### Day 7: Januari 30, 2021
 ##### Merging two website script into one
@@ -92,6 +99,7 @@
 - [My Blog](https://blog.ibnuis.dev)
 - [Laravel Framework](https://laravel.com)
 
+---
 
 ### Day 8: Januari 31, 2021
 ##### Providing Mikrotik Login Page and Fix Some Issues
@@ -105,3 +113,5 @@
 - [My Homepage](https://ibnuis.dev)
 - [My Blog](https://blog.ibnuis.dev)
 - [Laravel Framework](https://laravel.com)
+
+---
