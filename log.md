@@ -67,3 +67,14 @@
 **Links:**
 - [Django Boilerplate](https://github.com/ibnuhalimm/django-boilerplate)
 - [Tailwindcss](https://tailwindcss.com)
+
+
+### Day 6: Januari 29, 2021
+##### Working on My Client App
+
+**Today's Progress:** Working on my client app. Updating new features and fixing errors.
+
+**Thoughts:** Solving some problem of errors and updating new feature of "Koperasi" application.
+
+**Links:**
+- [Laravel Framework](https://laravel.com)
