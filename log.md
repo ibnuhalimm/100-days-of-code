@@ -78,3 +78,16 @@
 
 **Links:**
 - [Laravel Framework](https://laravel.com)
+
+
+### Day 7: Januari 30, 2021
+##### Merging two website script into one
+
+**Today's Progress:** Merging my two script websites.
+
+**Thoughts:** Copying script of blog.ibnuis.dev into ibnuis.dev, merging them. Also performing unit tests.
+
+**Links:**
+- [My Homepage](https://ibnuis.dev)
+- [My Blog](https://blog.ibnuis.dev)
+- [Laravel Framework](https://laravel.com)
