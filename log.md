@@ -55,3 +55,15 @@
 **Links:**
 - [Django Beginners](https://djangoforbeginners.com/)
 - [Django Official Docs Tutorial #06](https://docs.djangoproject.com/en/3.1/intro/tutorial06)
+
+
+### Day 5: Januari 28, 2021
+##### Updating my django-boilerplate
+
+**Today's Progress:** Updating my django-boilerplate.
+
+**Thoughts:** Removing unnecessary folder/files and adding tailwindcss.
+
+**Links:**
+- [Django Boilerplate](https://github.com/ibnuhalimm/django-boilerplate)
+- [Tailwindcss](https://tailwindcss.com)
