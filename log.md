@@ -155,3 +155,16 @@
 - [Laravel Framework](https://laravel.com)
 
 ---
+
+### Day 12: February 4, 2021
+##### Error/bug Hunting by Writing Test
+
+**Today's Progress:** Error/bug Hunting by Writing Test
+
+**Thoughts:** Writing test for my website.
+
+**Links:**
+- [My Website](https://ibnuis.dev)
+- [Laravel Framework](https://laravel.com)
+
+---
