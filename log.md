@@ -142,3 +142,16 @@
 - [Laravel Framework](https://laravel.com)
 
 ---
+
+### Day 11: February 3, 2021
+##### Bug Fix, Refactor My Website Code
+
+**Today's Progress:** Bug Fix, Refactor My Website Code
+
+**Thoughts:** Bug fix, refactor my website code. Writing tests to livewire component.
+
+**Links:**
+- [My Website](https://ibnuis.dev)
+- [Laravel Framework](https://laravel.com)
+
+---
