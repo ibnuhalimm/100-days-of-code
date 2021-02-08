@@ -181,3 +181,15 @@
 - [Laravel Framework](https://laravel.com)
 
 ---
+
+### Day 14: February 6, 2021
+##### Working on My Client Application
+
+**Today's Progress:** Working on My Client Application
+
+**Thoughts:** Updating new feature of my client application.
+
+**Links:**
+- [Laravel Framework](https://laravel.com)
+
+---
