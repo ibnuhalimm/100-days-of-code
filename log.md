@@ -168,3 +168,16 @@
 - [Laravel Framework](https://laravel.com)
 
 ---
+
+### Day 13: February 5, 2021
+##### Learning How to Create Laravel Package
+
+**Today's Progress:** Learning How to Create Laravel Package
+
+**Thoughts:** Follow tutorial from [Laravel Package](https://laravelpackage.com). Try to ship my first laravel-package.
+
+**Links:**
+- [Laravel Package](https://laravelpackage.com)
+- [Laravel Framework](https://laravel.com)
+
+---
