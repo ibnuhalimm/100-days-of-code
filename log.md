@@ -117,7 +117,7 @@
 ---
 
 ### Day 9: February 1, 2021
-##### Providing Mikrotik Login Page and Fix Some Issues
+##### Making some improvements to my website.
 
 **Today's Progress:** Making some improvements to my website.
 
@@ -126,6 +126,19 @@
 **Links:**
 - [My Homepage](https://ibnuis.dev)
 - [My Blog](https://blog.ibnuis.dev)
+- [Laravel Framework](https://laravel.com)
+
+---
+
+### Day 10: February 2, 2021
+##### Learning facebook graph API
+
+**Today's Progress:** Learning facebook graph API
+
+**Thoughts:** Learning the basic of facebook graph API, how to use it. Try to post my fb page.
+
+**Links:**
+- [Facebook Developers](https://developers.facebook.com)
 - [Laravel Framework](https://laravel.com)
 
 ---
