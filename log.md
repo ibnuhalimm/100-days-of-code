@@ -193,3 +193,15 @@
 - [Laravel Framework](https://laravel.com)
 
 ---
+
+### Day 15: February 7, 2021
+##### Working on My Client Client Order
+
+**Today's Progress:** Working on My Client Client Order
+
+**Thoughts:** Creating simple UI website for my sweden client order.
+
+**Links:**
+- [Tailwind Css](https://tailwindcss.com)
+
+---
