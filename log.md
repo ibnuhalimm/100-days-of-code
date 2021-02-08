@@ -12,7 +12,7 @@
 
 ---
 
-### Day 1: Januari 22, 2021
+### Day 1: January 22, 2021
 ##### Re-learn Basic Python and Installing Django Framework
 
 **Today's Progress:** I've learned basic python and install django framework
@@ -25,7 +25,7 @@
 
 ---
 
-### Day 2: Januari 23, 2021
+### Day 2: January 23, 2021
 ##### Learning the basic of Django Framework
 
 **Today's Progress:** I've learned the concept of django framework.
@@ -37,7 +37,7 @@
 
 ---
 
-### Day 3: Januari 26, 2021
+### Day 3: January 26, 2021
 ##### Creating simple polls voting app
 
 **Today's Progress:** Learning models, migrations, views (templating).
@@ -49,7 +49,7 @@
 
 ---
 
-### Day 4: Januari 27, 2021
+### Day 4: January 27, 2021
 ##### Development setup (boilerplate) for django-framework
 
 **Today's Progress:** Continuing learning the Django Framework and seeking development setup for it.
@@ -62,7 +62,7 @@
 
 ---
 
-### Day 5: Januari 28, 2021
+### Day 5: January 28, 2021
 ##### Updating my django-boilerplate
 
 **Today's Progress:** Updating my django-boilerplate.
@@ -75,7 +75,7 @@
 
 ---
 
-### Day 6: Januari 29, 2021
+### Day 6: January 29, 2021
 ##### Working on My Client App
 
 **Today's Progress:** Working on my client app. Updating new features and fixing errors.
@@ -87,7 +87,7 @@
 
 ---
 
-### Day 7: Januari 30, 2021
+### Day 7: January 30, 2021
 ##### Merging two website script into one
 
 **Today's Progress:** Merging my two script websites.
@@ -101,7 +101,7 @@
 
 ---
 
-### Day 8: Januari 31, 2021
+### Day 8: January 31, 2021
 ##### Providing Mikrotik Login Page and Fix Some Issues
 
 **Today's Progress:** Providing mikrotik login page and fix some issues
@@ -110,6 +110,20 @@
 
 **Links:**
 - [Source of Login Page](https://github.com/ibnuhalimm/login-page-mikrotik)
+- [My Homepage](https://ibnuis.dev)
+- [My Blog](https://blog.ibnuis.dev)
+- [Laravel Framework](https://laravel.com)
+
+---
+
+### Day 9: February 1, 2021
+##### Providing Mikrotik Login Page and Fix Some Issues
+
+**Today's Progress:** Making some improvements to my website.
+
+**Thoughts:** Transform to dark mode on blog page.
+
+**Links:**
 - [My Homepage](https://ibnuis.dev)
 - [My Blog](https://blog.ibnuis.dev)
 - [Laravel Framework](https://laravel.com)
